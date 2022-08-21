@@ -13,8 +13,8 @@
 
 
 <p align="center">
-  <a href="https://twitter.com/ORCA10K">
-    <img src="https://img.shields.io/twitter/follow/ORCA10K?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
+  <a href="https://twitter.com/ORCx41">
+    <img src="https://img.shields.io/twitter/follow/ORCx41?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
   </a>
 </p>
 
