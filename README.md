@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="https://github.com/ORCx41">
-      <img src="https://user-images.githubusercontent.com/111295429/211201735-179f3da8-6639-471c-9d79-373d27132c64.png" />
+      <img src="https://user-images.githubusercontent.com/111295429/211201919-4178fa94-6544-4e03-a2f4-895efdf67654.png" />
     </a>
     <br>
   <!---
