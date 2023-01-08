@@ -5,19 +5,22 @@
 -->
 
 
+
 <p align="center">
+    <a href="https://github.com/ORCx41">
+      <img src="https://user-images.githubusercontent.com/111295429/211201735-179f3da8-6639-471c-9d79-373d27132c64.png" />
+    </a>
+    <br>
+  <!---
     <a href="https://github.com/ORCx41">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ORCx41&&hide=cmake&langs_count=1&line_height=35&theme=dark" />
     </a>
-</p>
-
-<br>
-<br>
-
-<p align="center">
-  <a href="https://twitter.com/ORCx41">
+  -->
+    <br>
+    <a href="https://twitter.com/ORCx41">
     <img src="https://img.shields.io/twitter/follow/ORCx41?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
-  </a>
+    </a>
 </p>
+
 
   
