@@ -20,7 +20,7 @@
   -->
     <br>
     <a href="https://twitter.com/ORCx41">
-    <img src="https://img.shields.io/twitter/follow/ORCx41?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
+    <img src="https://img.shields.io/twitter/follow/NUL0x4C?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
     </a>
 </p>
 
